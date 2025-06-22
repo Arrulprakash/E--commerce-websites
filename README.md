@@ -11,7 +11,7 @@ A stylish and responsive e-commerce website designed for fashion brands, featuri
 - 🎨 Built with **HTML**, **Tailwind CSS**, and **JavaScript**
 
 ## 🔗 Live Demo
-https://arrulprakash.github.io/E--commerce-websites/
+https://arul2710.github.io/E--commerce-websites/
 
 ## 📂 Tech Stack
 - HTML5
